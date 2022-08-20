@@ -1,0 +1,51 @@
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+  color: blue;
+  font-style: inherit;
+  text-transform: capitalize;
+font-family: 'Arial';
+}
+#top {
+  text-align: center;
+}
+body {
+  background-image: url('https://external-preview.redd.it/MItxICAnlXPPRFXOM9Pi1qLk_O5qS4Xp-xZD-nAgpsI.png?format=pjpg&auto=webp&s=769b5329688b63c712d5e2d99aaf6b0df6d6891c');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Be Vietnam';
+}
+h2  {
+  color:
+  rgb(0, 129, 253);
+  margin-top: 20px;
+  padding: 0 60px 0 60px;
+}
+h3 {
+  color:
+  rgb(0, 193, 253);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 80px;
+}
+#mmb {
+  color:rgb(0, 193, 253);
+  background:rgb(0, 0, 0);
+  border: 2px solid white;
+}
+#kkk {
+  color: White;
+  Background: black;
+  border:2px solid white;
+}
+#eren {
+  font-size: 30px;
+  font-weight: 900;
+   margin-left: 20px;
+  font-style: inherit;
+  font-family:"Be Vietnam"
+    
+
+}
